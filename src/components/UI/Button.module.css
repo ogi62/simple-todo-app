@@ -1,0 +1,15 @@
+.button {
+    padding: 0.3rem 0.7rem;
+    cursor: pointer;
+    color: black;
+    border: 1px solid black;
+    outline: 0;
+    border-radius: 25px;
+    width: 6rem;
+}
+
+.button:hover,
+.button:active {
+    border-color: whitesmoke;
+    color: whitesmoke;
+  }
