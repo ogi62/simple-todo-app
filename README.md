@@ -1,3 +1,7 @@
+SIMPLE REACT TO DO APP USING REACT HOOKS USE-CONTEXT AND USE-REDUCER ! :)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
